@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhatoEat</string>
+    <string name="title_activity_edit_list">EditList</string>
+</resources>
